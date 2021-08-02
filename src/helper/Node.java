@@ -1,4 +1,4 @@
-package binar.tree;
+package helper;
 
 public class Node {
     int value;
